@@ -33,7 +33,8 @@ public class UseCar {
 		
 		System.out.println("Mini Price="+car2.findMiniPrice(cars));
 		
-		
+		System.out.println("Hello world");
+		System.out.println("Vignesh");
 	}
 
 }
